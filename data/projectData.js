@@ -7,7 +7,7 @@
 const PROJRECTS = [
   {
     title: 'React DummyShop',
-    src: 'img/project12.PNG',
+    src: 'img/project12.png',
     alt: 'React-DummyShop',
     href: 'https://asifcreative.github.io/DummyShop/',
     git: 'https://github.com/Asifcreative/DummyShop',
@@ -27,7 +27,7 @@ const PROJRECTS = [
   },
   {
     title: 'TextUtils App',
-    src: 'img/project2.PNG',
+    src: 'img/project2.png',
     alt: 'TextUtils App',
     href: 'https://asifcreative.github.io/TextUtils/',
     git: 'https://github.com/Asifcreative/TextUtils',
@@ -37,7 +37,7 @@ const PROJRECTS = [
   },
   {
     title: 'WeatherApp',
-    src: 'img/project4.PNG',
+    src: 'img/project4.png',
     alt: 'WeatherApp',
     href: 'https://asifcreative.github.io/WeatherApp/',
     git: 'https://github.com/Asifcreative/WeatherApp',
@@ -57,7 +57,7 @@ const PROJRECTS = [
   },
   {
     title: 'Food Ordering App',
-    src: 'img/project3.PNG',
+    src: 'img/project3.png',
     alt: 'Food Ordering App',
     href: 'https://asifcreative.github.io/Food-Ordering/',
     git: 'https://github.com/Asifcreative/Food-Ordering',
@@ -68,7 +68,7 @@ const PROJRECTS = [
 
   {
     title: 'PSD to Html',
-    src: 'img/project5.PNG',
+    src: 'img/project5.png',
     alt: 'PSD to Html',
     href: 'https://asifcreative.github.io/PSD-to-Html/',
     git: 'https://github.com/Asifcreative/PSD-to-Html/',
@@ -79,7 +79,7 @@ const PROJRECTS = [
 
   {
     title: 'Email Template',
-    src: 'img/project7.PNG',
+    src: 'img/project7.png',
     alt: 'Email Template',
     href: 'https://asifcreative.github.io/Email-Templates/"',
     git: 'https://github.com/Asifcreative/Email-Templates',
@@ -90,7 +90,7 @@ const PROJRECTS = [
 
   {
     title: 'Admin Panel - PHP and Mysqli',
-    src: 'img/project9.PNG',
+    src: 'img/project9.png',
     alt: 'Admin Panel - PHP and Mysqli',
     href: 'https://asifcreative.github.io/MobileShop-Admin/html/',
     git: 'https://github.com/Asifcreative/MobileShop-Admin',
@@ -100,7 +100,7 @@ const PROJRECTS = [
   },
   {
     title: 'MobileShop-Website - PHP and Mysqli',
-    src: 'img/project10.PNG',
+    src: 'img/project10.png',
     alt: 'MobileShop-Website - PHP and Mysqli',
     href: 'https://asifcreative.github.io/MobileShop-Website/index.html',
     git: 'https://github.com/Asifcreative/MobileShop-Website',
@@ -110,7 +110,7 @@ const PROJRECTS = [
   },
   {
     title: 'PSD to HTML',
-    src: 'img/project11.PNG',
+    src: 'img/project11.png',
     alt: 'MobileShop-Website - PHP and Mysqli',
     href: 'https://asifcreative.github.io/PSDtoHTML/',
     git: 'https://github.com/Asifcreative/PSDtoHTML',
@@ -120,7 +120,7 @@ const PROJRECTS = [
   },
   {
     title: 'CodeIgniter-4 Project',
-    src: 'img/project8.PNG',
+    src: 'img/project8.png',
     alt: 'CodeIgniter-4 Project',
     href: 'http://asifjaved.codemindz.com/codeigniter/',
     info:
